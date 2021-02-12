@@ -21,8 +21,9 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="http://g.recordit.co/z5NGR2ETU7.gif" align='left' width=250><br>
-<img src="http://g.recordit.co/QizTkNqUQ5.gif" align='center' width=250><br>
+<img src="http://g.recordit.co/z5NGR2ETU7.gif" align='left' width=250>
+<img src="http://g.recordit.co/QizTkNqUQ5.gif" align='center' width=250>
+
 
 ### Notes
 I had some issues getting the movie poster images to appear at first, but was able to debug the problem. 
